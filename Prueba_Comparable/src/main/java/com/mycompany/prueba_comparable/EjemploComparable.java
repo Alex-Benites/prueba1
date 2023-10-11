@@ -25,10 +25,7 @@ public class EjemploComparable {
 //        personas.add(new Persona("Bob", 25,"Patiño","88888888"));
         System.out.println("lista no ordenada");
         
-        for (Persona persona : personas) {
-            System.out.println(persona);
-        }
-
+      
         Collections.sort(personas); // Ordena la lista por edad
         System.out.println("");
         System.out.println("lista ordenada");
