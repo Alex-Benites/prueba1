@@ -18,8 +18,7 @@ public class EjemploComparable {
         
         personas.add(new Persona("Messi", 35,"Brown","777777777"));
         personas.add(new Persona("Charlie", 25,"Benites","66666666666"));
-        personas.add(new Persona("Leonel", 45,"Messi","555555555"));
-        personas.add(new Persona("Alice", 30,"Rosalia","999999999"));
+        
         personas.add(new Persona("Bob", 25,"Patiño","88888888"));
         System.out.println("lista no ordenada");
         
