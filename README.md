@@ -2,4 +2,5 @@
 Hola soy Naruto
 
 [Visita mi Aldea](https://www.youtube.com/watch?v=37779hpAFfU)
-![zapato1](https://github.com/Alex-Benites/prueba1/assets/117329019/7e1d5dd9-8eb6-4b56-825f-9aeba7f20b99)
+![Captura de pantalla 2023-10-11 002948](https://github.com/Alex-Benites/prueba1/assets/136673432/838a7ac6-ed8c-4b86-afc0-a3b252f32c12)
+
