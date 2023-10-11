@@ -16,7 +16,7 @@ public class EjemploComparable {
     public static void main(String[] args) {
         List<Persona> personas = new ArrayList<>();
         
-        personas.add(new Persona("Charlie", 35,"Brown","777777777"));
+        personas.add(new Persona("Messi", 35,"Brown","777777777"));
         personas.add(new Persona("Charlie", 25,"Benites","66666666666"));
         personas.add(new Persona("Leonel", 45,"Messi","555555555"));
         personas.add(new Persona("Alice", 30,"Rosalia","999999999"));
